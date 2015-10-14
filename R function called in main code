@@ -1,4 +1,4 @@
-# Function called in main code
+# Function called in  the main code
 
 regression <- function(x, y, alpha=1, nfolds=10)
 {
